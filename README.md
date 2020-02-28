@@ -17,7 +17,7 @@ dependencies {
     //Your dependencies (if you have any)
 }
 
-apply from: 'https://raw.githubusercontent.com/Commit451/gradle-android-javadocs/1.1.0/gradle-android-javadocs.gradle'
+apply from: 'https://raw.githubusercontent.com/peter-witt/gradle-android-javadocs/master/gradle-android-javadocs.gradle'
 ```
 
 License
